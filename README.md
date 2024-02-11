@@ -2,16 +2,16 @@
 
 I'm a former escape room designer and indie games developer transitioning into the field of software development.
 
-Currently working on...
+_Currently working on..._
 - Refactoring my brainstation capstone project, room-ranker.
 - Self-learning Typescript via Udemy.com and youtube
 - Self-studying Engineers Canada's software engineering syllabus (https://engineerscanada.ca/)
 
-My interests are...
-:game_die: Making analog games, like my custom dice game and drinking card game.
-:joystick: Playing video games (Super Smash Bros. Ultimate).
-:jigsaw: Puzzles and escape rooms
-:soccer: Soccer (playing and officiating)- 
+_My interests are..._
+- 🎲 Making analog games, like my custom dice game and drinking card game.
+- 🕹️ Playing video games (Super Smash Bros. Ultimate).
+- 🧩 Puzzles and escape rooms
+- ⚽ Soccer (playing and officiating)
 
 You can reach me at...
 - email: tomasmartinez1424@gmail.com
