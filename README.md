@@ -3,7 +3,7 @@
 I'm a former escape room designer and indie games developer transitioning into the field of software development.
 
 _Currently working on..._
-- Refactoring my brainstation capstone project, room-ranker.
+- Refactoring my brainstation capstone project, rate-escape-room.
 - Self-learning Typescript via Udemy.com and youtube
 - Self-studying Engineers Canada's software engineering syllabus (https://engineerscanada.ca/)
 
